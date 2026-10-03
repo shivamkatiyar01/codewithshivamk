@@ -18,7 +18,7 @@ Finding the right developers takes time: sourcing, screening, technical assessme
 
 ---
 
-<p align="center">
+<p align="left">
   <b>Spend less time hiring and more time building.</b>
   <br><br>
   👉 <a href="https://fiddletalent.com">Visit fiddletalent.com to scale your team today</a>
