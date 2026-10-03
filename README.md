@@ -1,7 +1,7 @@
 # Fiddle Talent
 
 <p align="center">
-  <img src="[https://github.com](https://github.com/shivamkatiyar01/codewithshivamk/blob/main/github-banner.png?raw=true)](https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/08/marketing_linkedin_banner.jpg?w=720)" alt="Hire Vetted Full-Time Frontend Developers" width="100%">
+  <img src="https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/08/marketing_linkedin_banner.jpg?w=720" alt="Hire Vetted Full-Time Frontend Developers" width="100%">
 </p>
 
 ## 🚀 Accelerate Your Engineering Growth
