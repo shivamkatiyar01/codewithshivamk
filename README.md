@@ -1,7 +1,7 @@
 # Fiddle Talent
 
 <p align="center">
-  <img src="[https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/08/marketing_linkedin_banner.jpg?w=720](https://media.licdn.com/dms/image/v2/D5616AQGszNxuGvii5w/profile-displaybackgroundimage-shrink_350_1400/B56aDl7ARJJ8AY-/0/1790563845466?e=1792627200&v=beta&t=GM2o65m8-wX8fdCOTNSwy881oWO6bam81rwRNnMK9vE)" alt="Hire Vetted Full-Time Frontend Developers" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGszNxuGvii5w/profile-displaybackgroundimage-shrink_350_1400/B56aDl7ARJJ8AY-/0/1790563845466?e=1792627200&v=beta&t=GM2o65m8-wX8fdCOTNSwy881oWO6bam81rwRNnMK9vE" alt="Hire Vetted Full-Time Frontend Developers" width="100%">
 </p>
 
 ## 🚀 Accelerate Your Engineering Growth
